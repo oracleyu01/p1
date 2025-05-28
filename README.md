@@ -1,30 +1,35 @@
-# 포트폴리오
+# 🎨 My Portfolio Projects
 
-## 주요 프로젝트
+## Featured Works
 
+### 🌟 Project 1 - [프로젝트명]
 <div align="center">
-  
-  <!-- 메인 프로젝트 -->
-  <a href="https://your-main-project-url.com">
-    <img src="./images/project1.png" alt="메인 프로젝트" width="600">
+  <a href="https://your-project1-url.com">
+    <img src="https://via.placeholder.com/800x400" alt="Project 1 Screenshot" width="80%">
   </a>
-  
-  <br><br>
-  
-  <!-- 서브 프로젝트들 -->
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://your-project2-url.com">
-          <img src="./images/project2.png" alt="프로젝트 2" width="100%">
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://your-project3-url.com">
-          <img src="./images/project3.png" alt="프로젝트 3" width="100%">
-        </a>
-      </td>
-    </tr>
-  </table>
-  
 </div>
+
+<br>
+
+### 💡 More Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Project 2 - [프로젝트명]</h3>
+      <div align="center">
+        <a href="https://your-project2-url.com">
+          <img src="https://via.placeholder.com/400x300" alt="Project 2 Screenshot" width="100%">
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project 3 - [프로젝트명]</h3>
+      <div align="center">
+        <a href="https://your-project3-url.com">
+          <img src="https://via.placeholder.com/400x300" alt="Project 3 Screenshot" width="100%">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
